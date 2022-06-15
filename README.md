@@ -23,6 +23,7 @@ I am a Microsoft Certified Trainer (MCT) and also a leader in the Power Platform
 - Senior Power Platform Roles
 - Freelancing opportunities on Power Platform/Microsoft 365 projects
 
+<!--
 ------------
 
 
@@ -31,7 +32,7 @@ I am a Microsoft Certified Trainer (MCT) and also a leader in the Power Platform
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tundeakande&show_icons=true&theme=radical)
 
-<!--
+
 **tundeakande/tundeakande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
