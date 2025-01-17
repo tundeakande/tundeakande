@@ -12,6 +12,7 @@ I am a Microsoft Certified Trainer (MCT) and also a leader in the Power Platform
 - [Fiverr](https://www.fiverr.com/tundeakande "Fiverr")
 
 ## 🔭I\'m currently working on:
+- My YouTube
 - My blog
 - Interesting projects on Power Platform
 
